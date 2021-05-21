@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello, welcome to my github!
 
-<!--
-**fehferreira/fehferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe and i'm a software developer. 
 
-Here are some ideas to get you started:
+I study computer science and I have knowledge in JAVA, JAVASCRIPT, HTML, CSS and several frameworks, both in the front-end and in the back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my code  repository you'll find most of my personal projects. If you want to fork one of my projects feel free.
+
+<a href="https://github.com/fehferreira">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilasmarques&theme=dracula&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasmarques&layout=compact&theme=dracula"/>
+<div>
+
