@@ -7,7 +7,7 @@ I study computer science and I have knowledge in JAVA, JAVASCRIPT, HTML, CSS and
 In my code  repository you'll find most of my personal projects. If you want to fork one of my projects feel free.
 
 <a href="https://github.com/fehferreira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilasmarques&theme=dracula&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasmarques&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fehferreira&theme=dracula&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehferreira&layout=compact&theme=dracula"/>
 <div>
 
